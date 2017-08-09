@@ -1,0 +1,20 @@
+[
+# BY DEFAULT, THE 'TESTING PROCEDURES AND DOCUMENTATION' TABLE WILL CONTAINS THE FOLLOWING COLUMNS: REFERENCE, USER ID, APPLICATION, ATTRIBUTES (A, B, C, ETC), EVIDENCE
+# STATE BELOW THE THE HEADER NAME OF EACH ADDITIONAL COLUMN THAT THE TABLE IS TO CONTAIN — list all column names (separate each column name with a comma)
+
+
+
+  # PLACE COLUMN NAME, AND BELOW THAT, PLACE THE MATCHING COLUMN NAME FROM THE INPUT SPREADSHEET
+{
+  "Additional table columns":
+    {
+      "Line manager": "manager",
+      "Application": "MS Beeswax",
+    },
+},
+
+
+
+
+
+]

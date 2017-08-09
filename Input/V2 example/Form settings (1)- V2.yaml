@@ -1,0 +1,159 @@
+Working paper ref: REF12345
+
+ITGC name/ref: I12#45
+
+Entity name: Bank of Earth
+
+
+
+# INFORMATION ABOUT THE CONTROL
+
+Workpaper reference of our assessment of the design of the control: ref122
+
+Canvas link to our assessment of the design of the control: https://www.ddg.gg/
+
+#(reference or copy the description from Form 232GL Obtain and confirm our understanding of an IT process form)
+Control description: descriptionnnnnnnn
+
+#(from Form 232GL Obtain and confirm our understanding of an IT process form)
+IT process: it process here
+
+Frequency: lalalala
+
+If other, describe:
+
+
+
+# TESTING STRATEGY — select all that apply ("X" indicates selected)
+
+Independent testing: X
+Reperformance of the work of IA or others: X
+Review of the work performed by IA or others: X
+
+
+
+# NATURE OF THE TOC — select all that apply ("X" indicates selected)
+
+Inquiry regarding performance of the control:
+Observation of the control taking place:
+Inspection of relevant documentation:
+Reperformance of the control:
+
+
+
+# EXTENT OF THE TOC
+
+#(system name or description)
+Population source: some machine
+
+Description of the procedures performed to determine how the population was determined to be complete: describing the description
+
+
+
+
+# TESTING PROCEDURES AND DOCUMENTATION — list all attributes (separate each attribute by entering the attribute on a new line preceded by a hyphen and space "- "
+
+#(Description of control attributes and testing procedures, add rows as necessary)
+Procedures performed:
+- example one of procedures
+- A second example of a procedures
+- another procedures
+- yet another procedure (4)
+- a penultimate procedures
+- a final procedure
+
+
+
+
+
+# ============================================= ADVANCED SETTINGS =============================================
+# Reason for advanced settings:
+# These settings have been designed for the 310GL form.
+# The advanced settings enable the user to resolve errors that may derive
+# from possible supersession/updates to 310GL form.
+
+Name of form tab: ITGC Testing
+
+
+# Enter below the appropriate cell for each of fields
+# Note: If an input field is merged, enter the upper-left cell
+# Note: If you leave these blank, they will revert by default to the cells of the latest 310GL form as at 2017
+
+Cell position - Working paper ref: C1
+
+Cell position - ITGC name/ref: F1
+
+Cell position - Entity name: C2
+
+Cell position - Audit date: F2
+
+
+
+# INFORMATION ABOUT THE CONTROL
+
+Cell position - Workpaper reference of our assessment of the design of the control: G7
+
+#(reference or copy the description from Form 232GL Obtain and confirm our understanding of an IT process form)
+Cell position - Control description: D8
+
+#(from Form 232GL Obtain and confirm our understanding of an IT process form)
+Cell position - IT process: D12
+
+Cell position - Frequency: D15
+
+Cell position - If other, describe: D16
+
+
+
+# TESTING STRATEGY — select all that apply ("X" indicates selected)
+
+Cell position - Independent testing: F23
+
+Cell position - Reperformance of the work of IA or others: F24
+
+Cell position - Review of the work performed by IA or others: F25
+
+
+
+
+# NATURE OF THE TOC — select all that apply ("X" indicates selected)
+
+Cell position - Inquiry regarding performance of the control: F33
+
+Cell position - Observation of the control taking place: F34
+
+Cell position - Inspection of relevant documentation: F35
+
+Cell position - Reperformance of the control: F36
+
+
+
+# TIMING OF THE TOC
+Cell position - Period covered by the test From date: F41
+
+Cell position - Period covered by the test To date: F42
+
+
+
+# EXTENT OF THE TOC
+
+#(system name or description)
+Cell position - Population source: F49
+
+Cell position - Population size: F50
+
+Cell position - Sample size: F51
+
+Cell position - Description of the procedures performed to determine how the population was determined to be complete: F59
+
+Cell position - Sample selection method: F61
+
+
+
+# TESTING PROCEDURES AND DOCUMENTATION
+
+# Note: enter the row range of the table (INCLUDING table header)
+Cell position - Testing table: 68:75
+
+# Note: enter the row range of the table (EXCLUDING table header)
+Cell position - Procedures performed: 78:80

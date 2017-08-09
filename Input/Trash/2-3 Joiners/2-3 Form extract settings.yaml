@@ -1,0 +1,38 @@
+Start date: 2015-04-01
+
+End date: 2016-03-31
+
+# ==============================================================================
+
+Application_1:
+  # Enter the name of the application (to be found within the input spreadsheet)
+  - Application name: IBBA
+
+  # Mandatory columns and matching column name in form table
+  - User ID: Username*
+  - Application: formDescription
+  - Type: formDescription
+  # If application list does not contain a date field, leave date field blank
+  - Date: Date
+
+  # Optional columns and matching column name in form table
+  - ReQuEsTeR nAmE: requesterName
+  - DaTe EnTeReD: dateEntered
+  - The Auth: auth1
+
+# ==============================================================================
+
+Application_2:
+  # Enter the name of the application (to be found within the input spreadsheet)
+  - Application name: Olympic
+
+  # Mandatory columns and matching column name in form table
+  - User ID: Username*
+  - Application: formDescription
+  - Type: formDescription
+  - Date: Date
+
+  # OPTIONAL columns and matching column name in form table
+  - The Auth: auth1
+
+# ==============================================================================
