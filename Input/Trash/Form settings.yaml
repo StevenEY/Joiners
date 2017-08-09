@@ -1,0 +1,188 @@
+[
+  {
+    "Working paper ref": ""
+  },
+  {
+    "ITGC name/ref": ""
+  },
+  {
+    "Entity name": ""
+  },
+
+
+  # INFORMATION ABOUT THE CONTROL
+  {
+    "Workpaper reference of our assessment of the design of the control": ""
+  },
+  {
+    "Canvas link to our assessment of the design of the control": ""
+  },
+  {
+    "Control description (reference or copy the description from Form 232GL Obtain and confirm our understanding of an IT process form)": ""
+  },
+  {
+    "IT process (from Form 232GL Obtain and confirm our understanding of an IT process form)": ""
+  },
+  {
+    "Frequency": ""
+  },
+  {
+    "If other, describe": ""
+  },
+
+
+
+  # TESTING STRATEGY — select all that apply ("Y" indicates selected)
+  {
+    "Independent testing": ""
+  },
+  {
+    "Reperformance of the work of IA or others": ""
+  },
+  {
+    "Review of the work performed by IA or others": ""
+  },
+
+
+
+
+  # NATURE OF THE TOC — select all that apply ("Y" indicates selected)
+  {
+    "Inquiry regarding performance of the control": ""
+  },
+  {
+    "Observation of the control taking place": ""
+  },
+  {
+    "Inspection of relevant documentation": ""
+  },
+  {
+    "Reperformance of the control": ""
+  },
+
+
+
+  # EXTENT OF THE TOC
+  {
+    "Population source (system name or description)": ""
+  },
+  {
+    "Description of the procedures performed to determine how the population was determined to be complete": ""
+  },
+
+
+
+
+  # TESTING PROCEDURES AND DOCUMENTATION — list all attributes (separate each attribute with a comma)
+  {
+    "Procedures performed (Description of control attributes and testing procedures, add rows as necessary)":
+      [
+        ""
+
+      ],
+  },
+
+
+
+
+  # ============================== ADVANCED SETTINGS ==============================
+  # Reason for advanced settings:
+  # These settings have been designed for the 310GL form.
+  # The advanced settings enable the user to resolve errors that may derive
+  # from possible supersession/updates to 310GL form.
+
+  {
+    "If form's tab is NOT named 'ITGC Testing', enter new tab name verbatim": ""
+  }
+
+  # Enter below the appropriate cell for each of fields
+  # Note: If an input field is merged, enter the upper-left cell
+  # Note: If you leave these blank, they will revert by default to the cells of the latest 310GL form as at 2017
+
+{
+  "Working paper ref": "C1"
+},
+{
+  "ITGC name/ref": "F1"
+},
+{
+  "Entity name": "C2"
+},
+{
+  "Audit date": "F2"
+},
+
+
+# INFORMATION ABOUT THE CONTROL
+{
+  "Workpaper reference of our assessment of the design of the control": "G7"
+},
+{
+  "Control description (reference or copy the description from Form 232GL Obtain and confirm our understanding of an IT process form)": "D8"
+},
+{
+  "IT process (from Form 232GL Obtain and confirm our understanding of an IT process form)": D12""
+},
+{
+  "Frequency": "D15"
+},
+{
+  "If other, describe": "D16"
+},
+
+
+
+# TESTING STRATEGY — select all that apply ("Y" indicates selected)
+{
+  "Independent testing": "F23"
+},
+{
+  "Reperformance of the work of IA or others": "F24"
+},
+{
+  "Review of the work performed by IA or others": "F25"
+},
+
+
+
+
+# NATURE OF THE TOC — select all that apply ("Y" indicates selected)
+{
+  "Inquiry regarding performance of the control": ""
+},
+{
+  "Observation of the control taking place": ""
+},
+{
+  "Inspection of relevant documentation": ""
+},
+{
+  "Reperformance of the control": ""
+},
+
+
+
+# EXTENT OF THE TOC
+{
+  "Population source (system name or description)": ""
+},
+{
+  "Description of the procedures performed to determine how the population was determined to be complete": ""
+},
+
+
+
+
+# TESTING PROCEDURES AND DOCUMENTATION — list all attributes (separate each attribute with a comma)
+{
+  "Procedures performed (Description of control attributes and testing procedures, add rows as necessary)":
+    [
+      ""
+
+    ],
+},
+
+
+
+
+]

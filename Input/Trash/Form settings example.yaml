@@ -1,0 +1,103 @@
+[
+  {
+    "Working paper ref": "IT Operations WT Doc"
+  },
+  {
+    "ITGC name/ref": "Managed IT Ops Control 04"
+  },
+  {
+    "Entity name": "Royal Bank of Hambros"
+  },
+
+
+
+  # INFORMATION ABOUT THE CONTROL
+  {
+    "Workpaper reference of our assessment of the design of the control": "IT Operations WT Doc2"
+  },
+  {
+    "Canvas link to our assessment of the design of the control": "www.ddg.gg"
+  },
+  {
+    "Control description (reference or copy the description from Form 232GL Obtain and confirm our understanding of an IT process form)": "IT operations problems or incidents are identified and resolved in a timely manner."
+  },
+  {
+    "IT process (from Form 232GL Obtain and confirm our understanding of an IT process form)": "Managed IT Operations"
+  },
+  {
+    "Frequency": "Performed as needed"
+  },
+  {
+    "If other, describe": "N/A"
+  },
+
+
+
+  # TESTING STRATEGY — select all that apply ("Y" indicates selected)
+  {
+    "Independent testing": "Y"
+  },
+  {
+    "Reperformance of the work of IA or others": ""
+  },
+  {
+    "Review of the work performed by IA or others": "y"
+  },
+
+
+
+  # NATURE OF THE TOC — select all that apply ("Y" indicates selected)
+  {
+    "Inquiry regarding performance of the control": ""
+  },
+  {
+    "Observation of the control taking place": "y"
+  },
+  {
+    "Inspection of relevant documentation": ""
+  },
+  {
+    "Reperformance of the control": "Y"
+  },
+
+
+
+  # EXTENT OF THE TOC
+  {
+    "Population source (system name or description)": ""
+  },
+  {
+    "Description of the procedures performed to determine how the population was determined to be complete": ""
+  },
+
+
+
+  # TESTING PROCEDURES AND DOCUMENTATION — list all attributes (separate each attribute with a comma)
+  {
+    "Procedures performed (Description of control attributes and testing procedures, add rows as necessary)":
+      [
+        "This is attribute A",
+        "ThIs Is AtTrIbUtE b"
+
+      ],
+
+  },
+
+
+
+
+  # ==================== ADVANCED SETTINGS ====================
+  # Reason for advanced settings:
+  # These settings have been designed for the 310GL form.
+  # The advanced settings enable the user to resolve errors that may derive
+  # from possible supersession/updates to 310GL form.
+
+  {
+    "If form's tab is NOT named 'ITGC Testing', enter new tab name verbatim": ""
+  }
+
+
+
+
+
+]
