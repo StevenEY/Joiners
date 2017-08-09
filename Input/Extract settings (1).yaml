@@ -1,0 +1,20 @@
+Start date: 2015-04-01
+
+End date: 2016-03-31
+
+Applications:
+  - IBBA
+
+# By default,
+# Enter to the right (after ": " of each item the appropriate column name from the input spreadsheet)
+Mandatory columns and matching column name in form table:
+  - User ID: Username*
+  - Application: formDescription
+  - Type: formDescription
+  - Date: Date
+
+# By default, the 'Testing Procedures and Documentation' form table will contain the following columns: Reference, User ID, Application, Attributes (A, B, C, etc)
+# Enter below any additional columns to place in the form's test table (name of form's table column followed by ": " and the exact name of the column in the input spreadsheet (may be blank if you want a blank column in the form table))
+Optional columns and matching column name in form table:
+  - ReQuEsTeR nAmE: requesterName
+  - DaTe EnTeReD: dateEntered
